@@ -1,7 +1,7 @@
 {
-  "surum": "1.1.0",
-  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.1.0/MasipYazdirmaAjani.exe",
-  "sha256": "0df6a52f15f1d7efb903d50118e0ed1405edb3e0f00e781ce1dacd6375ca1a04",
-  "notlar": "İlk herkese açık sürüm: küçültülmüş exe (68 MB), otomatik güncelleme.",
-  "tarih": "2026-10-16T12:06:37.589Z"
+  "surum": "1.1.1",
+  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.1.1/MasipYazdirmaAjani.exe",
+  "sha256": "ff48dcc7bb74f1f358a3d3e2be48b7cbb127968fef122369bf2c2384ad5323f3",
+  "notlar": "Düzeltme: açılışta 'Expected first argument to collection()' hatası giderildi. Hata ekranı sade Türkçe açıklama ve seçenekler gösterir: [E] baştan eşleştir, [T] yeniden dene. Eşleştirme adımları daha açıklayıcı.",
+  "tarih": "2026-10-16T12:29:56.976Z"
 }
