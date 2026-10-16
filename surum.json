@@ -1,7 +1,7 @@
 {
-  "surum": "1.2.0",
-  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.2.0/MasipYazdirmaAjani.exe",
-  "sha256": "1fca6bcc0d5f092c848fa1a935a5150ba6dcf05f4ce9c2aafd755df1282d3fe5",
-  "notlar": "Ajan Windows açılışında kendiliğinden başlar (simge durumunda). Çökerse kendini yeniden başlatır, uykudan dönünce bağlantıları yeniler. Bağlantı hatasında 60 sn sonra kendisi yeniden dener.",
-  "tarih": "2026-10-16T15:21:39.602Z"
+  "surum": "1.2.1",
+  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.2.1/MasipYazdirmaAjani.exe",
+  "sha256": "4a3105a145e897e06bf4d165a430db62ee2118b50e64995dd7dccdf8c6963364",
+  "notlar": "Daha önce eşleşmiş ajanlar da güncellemeden sonra bir kez Windows açılışına eklenir.",
+  "tarih": "2026-10-16T15:23:38.629Z"
 }
