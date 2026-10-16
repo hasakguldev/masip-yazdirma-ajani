@@ -1,7 +1,7 @@
 {
-  "surum": "1.1.1",
-  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.1.1/MasipYazdirmaAjani.exe",
-  "sha256": "ff48dcc7bb74f1f358a3d3e2be48b7cbb127968fef122369bf2c2384ad5323f3",
-  "notlar": "Düzeltme: açılışta 'Expected first argument to collection()' hatası giderildi. Hata ekranı sade Türkçe açıklama ve seçenekler gösterir: [E] baştan eşleştir, [T] yeniden dene. Eşleştirme adımları daha açıklayıcı.",
-  "tarih": "2026-10-16T12:29:56.976Z"
+  "surum": "1.2.0",
+  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.2.0/MasipYazdirmaAjani.exe",
+  "sha256": "1fca6bcc0d5f092c848fa1a935a5150ba6dcf05f4ce9c2aafd755df1282d3fe5",
+  "notlar": "Ajan Windows açılışında kendiliğinden başlar (simge durumunda). Çökerse kendini yeniden başlatır, uykudan dönünce bağlantıları yeniler. Bağlantı hatasında 60 sn sonra kendisi yeniden dener.",
+  "tarih": "2026-10-16T15:21:39.602Z"
 }
