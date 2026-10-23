@@ -1,7 +1,7 @@
 {
-  "surum": "1.3.0",
-  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.3.0/MasipYazdirmaAjani.exe",
-  "sha256": "1723ec493eb7a9a84d4233e4ca1a0a71dca0fd40b4b6535174475256092a4f37",
-  "notlar": "Etiket yazıcısında sürekli rulo ve her etiketten sonra otomatik kesme; kesme ayarı kaydedilmemiş fiş yazıcıları varsayılan keser; etikette garson adı; buçuklu adet tek etiket (x1,5).",
-  "tarih": "2026-10-23T15:10:47.639Z"
+  "surum": "1.3.1",
+  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.3.1/MasipYazdirmaAjani.exe",
+  "sha256": "84831678a6d75067ee0d1cd8c56ce283380ad4a5800a815d94ecb67e3e8d0e80",
+  "notlar": "Kesme komutu en uyumlu kısmi kesime (GS V 1) çevrildi; sesli uyarı kesimden sonra gönderilir. Posbank A7 gibi yazıcılarda otomatik kesme.",
+  "tarih": "2026-10-23T15:32:06.998Z"
 }
