@@ -1,7 +1,7 @@
 {
-  "surum": "1.2.1",
-  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.2.1/MasipYazdirmaAjani.exe",
-  "sha256": "4a3105a145e897e06bf4d165a430db62ee2118b50e64995dd7dccdf8c6963364",
-  "notlar": "Daha önce eşleşmiş ajanlar da güncellemeden sonra bir kez Windows açılışına eklenir.",
-  "tarih": "2026-10-16T15:23:38.629Z"
+  "surum": "1.3.0",
+  "indir": "https://github.com/hasakguldev/masip-yazdirma-ajani/releases/download/v1.3.0/MasipYazdirmaAjani.exe",
+  "sha256": "1723ec493eb7a9a84d4233e4ca1a0a71dca0fd40b4b6535174475256092a4f37",
+  "notlar": "Etiket yazıcısında sürekli rulo ve her etiketten sonra otomatik kesme; kesme ayarı kaydedilmemiş fiş yazıcıları varsayılan keser; etikette garson adı; buçuklu adet tek etiket (x1,5).",
+  "tarih": "2026-10-23T15:10:47.639Z"
 }
